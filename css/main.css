@@ -182,7 +182,7 @@ header .hero-img {
   background-image: url("../img/header-mini.jpg");
   background-position: center;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: local;
   z-index: 0;
 }
 

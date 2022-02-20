@@ -478,7 +478,7 @@ header .fa-chevron-down {
 
 @media (min-width: 375px) {
   header .fa-chevron-down {
-  top:88%;
+  top:80%;
   }
   
   header h1 {
@@ -488,6 +488,11 @@ header .fa-chevron-down {
     font-size: 16px;
   }
 }
+@media (min-width: 576px)
+  header .fa-chevron-down {
+    top:80%;}
+   
+
 
 
 

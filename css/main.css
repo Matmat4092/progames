@@ -485,7 +485,7 @@ header .fa-chevron-down {
   }
 }
 header .fa-chevron-down {
-  top:85%;}
+  top:70%;}
 
 
 @media (min-width: 768px) {
@@ -496,6 +496,8 @@ header .fa-chevron-down {
     font-size: 20px;
   }
 }
+header .fa-chevron-down {
+  top:70%;}
 
 @media (min-width: 992px) {
   nav {

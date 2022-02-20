@@ -220,7 +220,7 @@ header .btn-outline-light {
 
 header .fa-chevron-down {
   position: absolute;
-  left: 50%;
+  left: 49%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   bottom: 20px;
@@ -484,6 +484,7 @@ header .fa-chevron-down {
     font-size: 16px;
   }
 }
+
 header .fa-chevron-down {
   top:88%;}
 

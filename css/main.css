@@ -484,6 +484,9 @@ header .fa-chevron-down {
     font-size: 16px;
   }
 }
+header .fa-chevron-down {
+  top:85%;}
+
 
 @media (min-width: 768px) {
   header h1 {
